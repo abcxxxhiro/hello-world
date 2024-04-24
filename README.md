@@ -3,3 +3,5 @@ My first repository on GitHub
 
 What's going on? I'm ready to start to learn plograming.
 
+git credit chek
+github author
